@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'en' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\unity\unity_2020\Unity\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+E:/unity/gaper/Gaper
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+65323
+Successfully changed project path to: E:/unity/gaper/Gaper
+E:/unity/gaper/Gaper
+Using Asset Import Pipeline V2.

@@ -1,0 +1,49 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'en' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\unity\unity_2020\Unity\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/unity/gaper/Gaper
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+65323
+Successfully changed project path to: E:/unity/gaper/Gaper
+E:/unity/gaper/Gaper
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.32f1 (12f8b0834f07)
+[Subsystems] Discovering subsystems at path E:/unity/unity_2020/Unity/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/unity/gaper/Gaper/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   22.21.13.8264
+Unable to load mono library from E:/unity/unity_2020/Unity/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+Cancelling DisplayDialog: Error Failed to load Mono. Please see Editor.log file for more information
+This should not be called in batch mode.
+0x00007ff73201e73c (Unity) 
+0x00007ff732025d39 (Unity) 
+0x00007ff732db650c (Unity) 
+0x00007ff7338136a7 (Unity) 
+0x00007ff7338133c2 (Unity) 
+0x00007ff732dc6f60 (Unity) 
+0x00007ff73294167c (Unity) 
+0x00007ff732dc0892 (Unity) 
+0x00007ff73445e3ee (Unity) 
+0x00007ffc5ad67034 (KERNEL32) 
+0x00007ffc5cae2651 (ntdll) 
+
+Exiting without the bug reporter. Application will terminate with return code 1
